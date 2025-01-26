@@ -1,9 +1,15 @@
 class Solution {
-    public boolean checkIfPangram(String sentence) {
-        for (int i = 97; i <= 122; i++) {
-            if(sentence.indexOf((char) i) == -1)
-                return false;
+    public boolean checkIfPangram(String s) {
+        int arr[]=new int[26];
+        for(int i=0;i<s.length();i++){
+            int x=s.charAt(i)-97;
+            arr[x]++;
         }
-        return true; 
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==0){
+                return false;
+            }
+        }
+        return true;
     }
 }
