@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pawanuser/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pawanuser/LeetCode-Programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawanuser/LeetCode-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1031-add-to-array-form-of-integer](https://github.com/pawanuser/LeetCode-Programs/tree/master/1031-add-to-array-form-of-integer) |
@@ -34,4 +35,12 @@
 | [0007-reverse-integer](https://github.com/pawanuser/LeetCode-Programs/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pawanuser/LeetCode-Programs/tree/master/0009-palindrome-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/pawanuser/LeetCode-Programs/tree/master/1031-add-to-array-form-of-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pawanuser/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pawanuser/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
