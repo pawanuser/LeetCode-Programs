@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pawanuser/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pawanuser/LeetCode-Programs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/pawanuser/LeetCode-Programs/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawanuser/LeetCode-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1031-add-to-array-form-of-integer](https://github.com/pawanuser/LeetCode-Programs/tree/master/1031-add-to-array-form-of-integer) |
 | [2048-build-array-from-permutation](https://github.com/pawanuser/LeetCode-Programs/tree/master/2048-build-array-from-permutation) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pawanuser/LeetCode-Programs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/pawanuser/LeetCode-Programs/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pawanuser/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/pawanuser/LeetCode-Programs/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
